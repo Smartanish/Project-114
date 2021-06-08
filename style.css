@@ -1,0 +1,7 @@
+h3 {
+    font-size: 25px !important;
+}
+
+canvas {
+    border: 9px ridge rgb(255, 255, 255);
+}
